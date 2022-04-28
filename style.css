@@ -1,0 +1,24 @@
+.image-size {
+    width: 600px;
+}
+
+.text {
+
+}
+
+.transparent{
+    opacity: 0.5;
+}
+
+.headline1{
+    color:black;
+    text-decoration: underline purple;
+}
+
+.headline2{
+    text-decoration: underline;
+}
+
+.even-height{
+    height: 400px;
+} 
